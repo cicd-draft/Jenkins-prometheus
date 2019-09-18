@@ -50,11 +50,11 @@ check it: go to http://localhost:9090/targets
 
 - 2.From “ Home Dashboard” click on “add data source” then click on “Prometheus”.
 
-- 3. add a exist dashboard 
+- 3.add a exist dashboard 
 ![import_grafana_dashboard](images/import_grafana_dashboard.png)
 
 
-id 9964
+Login to Grafana, and add Dashboard with ID: 9964
 
 
 ### 4.Finally 
